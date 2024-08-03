@@ -280,12 +280,8 @@ footer a:hover {
     font-size: 10px;
   }
 
-  .card-header img {
+  .card-header .embed-map {
     display: none;
-  }
-
-  .embed-map {
-    aspect-ratio: 16/9;
   }
 
   .embed {
